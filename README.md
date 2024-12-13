@@ -25,8 +25,8 @@ Aspect-Oriented Programming (AOP) complements Object-Oriented Programming (OOP) 
 
 ## Technologies Used
 
-- **Java 11**
-- **Spring Boot 2.7.x**
+- **Java 17**
+- **Spring Boot 3.4.0**
 - **Spring AOP**
 - **Maven**
 - **Spring Tool Suite (STS)**
